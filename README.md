@@ -1,172 +1,282 @@
+<!-- HEADER BANNER -->
+<!-- 💡 TIP: Replace this with a custom banner image later. -->
+<!-- Upload an image to your repo's images/ folder, then use: -->
+<!-- ![Header](./images/header.png) -->
 
+<div align="center">
+
+<!-- Typing SVG — auto-animates your titles -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubham+Singh;Product+Designer+Who+Ships+%F0%9F%9A%80;Not+just+Figma+files+%E2%80%94+real+products." alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- One-liner that does the heavy lifting -->
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   SHUBHAM SINGH — PRODUCT DESIGNER WHO SHIPS                            ║
-║                                                                          ║
-║   6+ YEARS · DESIGN SYSTEMS · AI PRODUCT DESIGN · HEALTHTECH            ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+I design it. I build it. I ship it.
 ```
 
-### I design products that work — then I build them.
+<br/>
 
-Most designers hand off Figma files. I hand off working products.  
-Currently at **Care Health Insurance**, where my design work has directly driven **+35% claims completion**, **−22% support costs**, and **₹18Cr additional monthly revenue**.
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shubhamdesign.in-000000?style=for-the-badge&labelColor=000000)](https://shubhamdesign.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-singh)
 
-Before that, I led design at **Isha Foundation** — shipping products used by millions, building a design system from scratch, and working on campaigns recognised by **UNESCO** and **UNEP**.
-
-This portfolio site? **Hand-coded. No template. No Webflow. No Framer.** → [shubhamdesign.in](https://shubhamdesign.in)
+</div>
 
 ---
 
-## ▓▓▓ WHAT I'M BUILDING
+<!-- ABOUT ME -->
 
-```
-→ AI-assisted insurance claims journeys (live in production)
-→ AI agent-powered sales tools for 800+ daily agents
-→ Design-to-code workflows with Claude Code & Cursor
-→ Shipping design as product, not just pixels
+<img align="right" alt="Design to Code" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### `> whoami`
+
+I'm a **Product Designer** who got tired of handing off Figma files  
+and hoping someone would build them right.
+
+So I started building them myself.
+
+Currently at **Care Health Insurance**, where design decisions  
+I made are generating **₹18 Crore in additional monthly revenue**.
+
+Before that — **Design Lead at Isha Foundation** for 4 years,  
+shipping products used by millions.
+
+**This portfolio?** Hand-coded. No Webflow. No Framer. No template.  
+→ **[shubhamdesign.in](https://shubhamdesign.in)** *(right-click → view source for proof)*
+
+<br clear="right"/>
+
+---
+
+<!-- WHAT I'M UP TO -->
+
+<div align="center">
+
+### ⚡ What I'm Building Right Now
+
+</div>
+
+```js
+const shubham = {
+    role: "Product Designer Who Ships",
+    location: "India 🇮🇳",
+    currentlyAt: "Care Health Insurance",
+    
+    building: [
+        "🏥 AI-assisted insurance claims journeys (live in production)",
+        "🤖 AI agent-powered sales tools for 800+ daily agents",
+        "🌐 Hand-coded portfolio with custom page architecture",
+    ],
+    
+    designStack: ["Figma", "Design Systems", "Design Tokens", "WCAG 2.1"],
+    aiStack: ["Conversational UI", "LLM Interface Design", "AI Agent Workflows"],
+    codeStack: ["HTML", "CSS", "JavaScript", "Claude Code", "Cursor"],
+    
+    philosophy: "If I designed it, I should be able to build it."
+};
 ```
 
 ---
 
-## ▓▓▓ FEATURED WORK
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+
+### 🔥 Featured Work — Designed AND Shipped
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏥 CLAIMS AI-ASSISTED JOURNEY
+<div align="center">
+
+#### 🏥 Claims AI-Assisted Journey
 **Care Health Insurance**
 
-End-to-end redesign of the insurance claims experience — from a broken, support-heavy funnel to an AI-assisted flow that guides users through every step.
+</div>
+
+The claims experience was broken — users abandoned mid-flow,  
+support tickets were through the roof.
+
+I redesigned the entire journey with AI-assisted guidance,  
+progressive disclosure, and contextual help.
 
 ```
-Problem:  Claims completion was critically low
-          Users abandoned mid-flow
-          Support tickets dominated operations
-
-Method:   UX audit → behaviour analytics →
-          cognitive load mapping →
-          progressive disclosure redesign
-
-Stack:    Figma · AI-assisted flows ·
-          Contextual chat · Smart validation
-
-Results:  +35% claim completion rate
-          −22% support cost
-          Measurably lower drop-off at
-          every critical funnel step
+┌─────────────────────────────────────┐
+│          BEFORE → AFTER             │
+├─────────────────────────────────────┤
+│  Completion Rate    ██████░░ +35%   │
+│  Support Costs      ████░░░░ −22%   │
+│  Drop-off Points    ███░░░░░ Fixed  │
+└─────────────────────────────────────┘
 ```
 
-**→ [View case study](https://shubhamdesign.in)**
+`UX Audit` `Behaviour Analytics` `Cognitive Load Mapping`  
+`Progressive Disclosure` `AI-Assisted Flows`
+
+**[→ View Case Study](https://shubhamdesign.in)**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 LMS — AI AGENT-ASSISTED SALES TOOL
+<div align="center">
+
+#### 🤖 LMS — AI Agent Sales Tool
 **Care Health Insurance**
 
-0→1 redesign of the Lead Management System used by 800+ call center agents daily. Replaced fragmented workflows with a streamlined, AI-powered interface that directly ties UX decisions to revenue.
+</div>
+
+800+ call center agents were juggling 4 systems mid-call.  
+High cognitive load = lost sales = lost revenue.
+
+I built a 0→1 redesign with AI agent assist,  
+real-time dashboards, and predictive lead scoring.
 
 ```
-Problem:  Agents juggling 4+ systems mid-call
-          High cognitive load = lost sales
-          No performance visibility
-
-Method:   Agent shadowing → workflow mapping →
-          cognitive load reduction →
-          motivational UI layer
-
-Stack:    Figma · AI agent assist ·
-          Real-time dashboards ·
-          Predictive lead scoring
-
-Results:  +34% lead-to-sale conversion
-          −52% handle time
-          ₹18Cr additional monthly revenue
-          Scored 9.1/10 in expert review
+┌─────────────────────────────────────┐
+│          THE NUMBERS                │
+├─────────────────────────────────────┤
+│  Lead→Sale Conv.    ██████░░ +34%   │
+│  Handle Time        ████████ −52%   │
+│  Monthly Revenue    ████████ +₹18Cr │
+│  Expert Score       █████████ 9.1   │
+└─────────────────────────────────────┘
 ```
 
-**→ [View case study](https://shubhamdesign.in)**
+`Agent Shadowing` `Workflow Mapping` `AI Agent Assist`  
+`Real-time Dashboards` `Predictive Scoring`
+
+**[→ View Case Study](https://shubhamdesign.in)**
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
-### 🌐 PORTFOLIO — HAND-CODED FROM SCRATCH
-**[shubhamdesign.in](https://shubhamdesign.in)**
-
-This isn't a Webflow site. It's a hand-built, single-file HTML portfolio with a custom boot loader, page-pane architecture, sound design, and bespoke CSS — no framework, no template. View source to verify.
-
-```
-Stack:    Vanilla HTML · CSS · JavaScript
-          Custom page-pane architecture
-          Boot loader · Sound design
-          Zero dependencies
-
-Why:      Because "I can ship" means nothing
-          if your own portfolio is a template.
-```
-
-**→ [Visit live site](https://shubhamdesign.in)** · *Right-click → View Source for proof*
-
-</td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## ▓▓▓ TECH + DESIGN STACK
+#### 🌐 Portfolio — Hand-Coded From Scratch
+**[shubhamdesign.in](https://shubhamdesign.in)**
 
-| **DESIGN** | **AI & PRODUCT** | **CODE** | **PROCESS** |
-|:--|:--|:--|:--|
-| Figma | Conversational UI | HTML / CSS / JS | Agile / Scrum |
-| Design Systems | LLM Interface Design | React basics | Stakeholder Mgmt |
-| Design Tokens | AI Agent Workflows | Webflow | Design Leadership |
-| Prototyping | Predictive UX | Framer | Cross-team Comms |
-| WCAG 2.1 | Human-AI Collaboration | Claude Code / Cursor | Behaviour Analytics |
+</div>
 
----
+> *"If you call yourself a designer who ships, your own portfolio better not be a template."*
 
-## ▓▓▓ BEFORE CARE
-
-Selected highlights from 6+ years:
+Built with vanilla HTML, CSS, and JavaScript — no framework, no CMS, no shortcuts.  
+Custom boot loader, page-pane architecture, sound design, zero dependencies.
 
 ```
-ISHA FOUNDATION          Design Lead · 4 years
-                         → Built design system from scratch (−35% dev handoff time)
-                         → Shipped 10+ live products (Inner Engineering, Sadhguru App)
-                         → Linga Bhairavi site: 60K visits in month 1, 3× previous retention
-                         → Save Soil campaign: recognised by UNESCO, UNEP
-
-TIMES OF INDIA           UX/UI Designer
-                         → Led 4-person team on Times Ascent careers platform
-
-ZERODHA                  UX Designer
-                         → Varsity: India's largest financial learning platform
-
-EDUCATION                BFA — Design & Applied Arts
-                         Banaras Hindu University (2015–2019)
+Stack:  Vanilla HTML · CSS · JavaScript
+        Custom page-pane architecture · Boot loader · Sound design
+        Zero dependencies · Zero frameworks · 100% hand-written
 ```
+
+**[→ Visit Live Site](https://shubhamdesign.in)**
 
 ---
 
-## ▓▓▓ CONNECT
+<!-- CAREER HIGHLIGHTS -->
+
+<div align="center">
+
+### 📍 The Journey So Far
+
+</div>
 
 ```
-🌐  shubhamdesign.in
-💼  linkedin.com/in/shubham-singh  
-📧  Open to product design roles — especially where design ships, not just specs
+ 2025–Now   CARE HEALTH INSURANCE          Senior UX/UI Designer
+            ├── Claims AI Journey           → +35% completion, −22% support
+            └── LMS AI Agent                → +34% conversion, ₹18Cr revenue
+            
+ 2021–2025  ISHA FOUNDATION                Design Lead
+            ├── Design system from scratch  → −35% dev handoff time
+            ├── 10+ live products shipped   → Inner Engineering, Sadhguru App
+            ├── Linga Bhairavi website      → 60K visits month 1, 3× retention  
+            └── Save Soil campaign          → Recognised by UNESCO & UNEP
+            
+ 2020–2021  TIMES OF INDIA / ZERODHA       UX/UI Designer
+            ├── Times Ascent               → Led 4-person design team
+            └── Zerodha Varsity            → India's largest financial learning platform
+            
+ 2015–2019  BANARAS HINDU UNIVERSITY       BFA — Design & Applied Arts
 ```
 
 ---
+
+<!-- TECH STACK WITH VISUAL BADGES -->
+
+<div align="center">
+
+### 🛠️ What I Work With
+
+<br>
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=miro&logoColor=050036)
+
+**AI & Product**
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/LLM_Interface_Design-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Code**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhss160696-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7F7F7&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhss160696-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=F7F7F7" width="48%" />
+
+</div>
+
+---
+
+<!-- GUESTBOOK -->
+
+<div align="center">
+
+### 📝 Guestbook
+
+*Visited my profile? Drop a hello!*
+
+[![Sign my guestbook](https://img.shields.io/badge/✍️_Sign_My_Guestbook-Leave_a_message-58A6FF?style=for-the-badge)](https://github.com/shubhss160696-gif/shubhss160696-gif/issues/1)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ```
 This profile exists because GitHub should show evidence, not just Figma links.
-Most work is under NDA — case studies available at shubhamdesign.in
+Case studies & full portfolio → shubhamdesign.in
 ```
 
-*Last updated: July 2026*
+![Visitor Count](https://komarev.com/ghpvc/?username=shubhss160696-gif&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
