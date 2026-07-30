@@ -1,8 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://github.com/shubhss160696-gif/shubhss160696-gif/raw/main/banner.gif" alt="Pixel Art Da Vinci Painting" width="100%"/>
-
+<img src="https://github.com/shubhss160696-gif/shubhss160696-gif/raw/main/banner.gif" alt="Banner" width="100%"/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
