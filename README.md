@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="./images/banner.gif" alt="Pixel Art Da Vinci Painting" width="100%"/>
+<img src="./banner.gif" alt="Pixel Art Da Vinci Painting" width="100%"/>
 
 <br/>
 
