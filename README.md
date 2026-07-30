@@ -1,179 +1,295 @@
-# How to Set Up Your GitHub Profile — Complete Beginner Guide
+<!-- BANNER -->
+<div align="center">
 
-Total time: ~15 minutes. Follow each step exactly.
+<img src="./images/banner.gif" alt="Pixel Art Da Vinci Painting" width="100%"/>
 
----
+<br/>
 
-## STEP 1: Create a GitHub Account (skip if you already have one)
+<!-- ═══════════════════════════════════════════════ -->
+<!--              SHUBHAM SINGH                     -->
+<!-- ═══════════════════════════════════════════════ -->
 
-1. Go to **github.com**
-2. Click **Sign up**
-3. Your username is: `shubhss160696-gif`
-4. Verify your email
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=45&lines=I+design+products.+Then+I+build+them." alt="Typing SVG" />
 
-## STEP 2: Create the "Magic" Profile Repository
+<br/><br/>
 
-GitHub has a secret feature: if you create a repository with the **exact same name as your username**, its README.md file becomes your profile page.
+<table><tr><td>
+<samp>
+&nbsp; <b>SHUBHAM SINGH</b> &nbsp;·&nbsp; Product Designer &nbsp;·&nbsp; 6+ years &nbsp;·&nbsp; AI × Design × Code &nbsp;
+</samp>
+</td></tr></table>
 
-1. Log into GitHub
-2. Click the **+** button (top right corner) → **New repository**
-3. In "Repository name" type exactly: `shubhss160696-gif`
-4. You'll see a green message: *"shubhss160696-gif is a special repository"* — that's correct
-5. Check ✅ **Public**
-6. Check ✅ **Add a README file**
-7. Click **Create repository**
+<br/>
 
----
+<!-- SOCIAL LINKS — clean, minimal, spaced -->
+<a href="https://shubhamdesign.in">
+<img src="https://img.shields.io/badge/%E2%86%92_shubhamdesign.in-Visit_Portfolio-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" height="28"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shubham-singh">
+<img src="https://img.shields.io/badge/%E2%86%92_LinkedIn-Let's_Connect-0D1117?style=flat-square&labelColor=0D1117&color=0A66C2" height="28"/>
+</a>
 
-## STEP 3: Upload Your Banner GIF
+</div>
 
-This is the Da Vinci pixel art GIF — it needs to live inside the repo.
-
-1. Inside your new `shubhss160696-gif` repository, click **Add file** → **Create new file**
-2. In the filename field, type: `images/placeholder.txt`
-   (This creates the `images` folder — GitHub needs at least one file to create a folder)
-3. Type anything in the file body (like "placeholder")
-4. Click **Commit changes**
-5. Now click into the `images` folder
-6. Click **Add file** → **Upload files**
-7. Drag in the `Pixel_art_Da_Vinci_paints_compressed.gif` file I gave you
-8. **IMPORTANT:** Before committing, rename the file to `banner.gif`:
-   - Actually, GitHub doesn't let you rename during upload
-   - So first rename the file on your computer to `banner.gif`
-   - Then upload it
-9. Click **Commit changes**
-10. You can now delete the `placeholder.txt` file (click it → click the trash icon → commit)
+<br/>
 
 ---
 
-## STEP 4: Paste the README
+<br/>
 
-1. Go back to your repository's main page
-2. Click the **pencil icon** (✏️) on the README.md file
-3. **Select all** the default text and **delete it**
-4. Open the `README.md` file I gave you
-5. **Copy everything** and **paste it** into the GitHub editor
-6. Click **Commit changes** → **Commit changes**
+<!-- THE PITCH — conversational, sharp, no fluff -->
 
----
+Most designers deliver Figma files and call it done.
 
-## STEP 5: Verify the Banner Works
+I deliver **the thing that ships** — and then I measure whether it worked. Currently at **Care Health Insurance**, where my design work is directly responsible for **₹18Cr in additional monthly revenue**, **+35% claims completion**, and **−52% agent handle time**. Before that, I spent 4 years as **Design Lead at Isha Foundation** — building a design system from scratch, shipping 10+ live products, and designing for campaigns that got recognised by **UNESCO** and **UNEP**.
 
-1. Go to `github.com/shubhss160696-gif`
-2. The Da Vinci GIF should be playing at the top
-3. If it shows a broken image icon, the path is wrong — make sure:
-   - The file is at: `images/banner.gif` (not `images/Pixel_art_Da_Vinci_paints_compressed.gif`)
-   - If the filename is different, edit the README and change `./images/banner.gif` to match
+Oh, and this portfolio? **[shubhamdesign.in](https://shubhamdesign.in)** — hand-coded, zero frameworks, zero templates. View source if you don't believe me.
+
+<br/>
 
 ---
 
-## STEP 6: Set Up Your Profile Sidebar
+<br/>
 
-1. On your profile page, click **Edit profile** (left sidebar)
-2. Fill in:
-   - **Name:** Shubham Singh
-   - **Bio:** Product Designer who ships · AI × Design × Code · shubhamdesign.in
-   - **Company:** Care Health Insurance
-   - **Location:** India
-   - **Website:** https://shubhamdesign.in
-3. Click **Save**
+<!-- FEATURED WORK -->
+
+<div align="center">
+
+### `FEATURED WORK`
+
+*Designed it. Built it. Measured it.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+<br/>
+
+`🏥 CLAIMS AI-ASSISTED JOURNEY`
+
+**Care Health Insurance**
+
+</div>
+
+<br/>
+
+The claims experience was fundamentally broken. Users abandoned mid-flow, support tickets piled up, and nobody could finish a claim without calling someone.
+
+I redesigned the entire journey — UX audit, behaviour analytics, cognitive load mapping — and introduced AI-assisted guidance that walks users through every step.
+
+<br/>
+
+```diff
++ Completion Rate    ██████████░░  +35%
++ Support Costs      ████████░░░░  −22%
++ Drop-off           ████░░░░░░░░  Fixed at every step
+```
+
+<br/>
+
+<div align="center">
+
+`UX Audit` · `Behaviour Analytics` · `Cognitive Load Mapping`
+`Progressive Disclosure` · `AI-Assisted Flows`
+
+<br/>
+
+**[→ Full Case Study](https://shubhamdesign.in)**
+
+<br/>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+<br/>
+
+`🤖 LMS — AI AGENT SALES TOOL`
+
+**Care Health Insurance**
+
+</div>
+
+<br/>
+
+800+ call center agents were juggling 4 different systems mid-call. Cognitive overload killed conversions, and nobody had visibility into performance.
+
+I built a 0→1 redesign — agent shadowing, workflow mapping, AI agent assist — that turned a chaotic process into a streamlined, revenue-generating machine.
+
+<br/>
+
+```diff
++ Lead-to-Sale        ██████████░░  +34%
++ Handle Time         ████████████  −52%
++ Monthly Revenue     ████████████  +₹18Cr
++ Expert Review       █████████░░░  9.1/10
+```
+
+<br/>
+
+<div align="center">
+
+`Agent Shadowing` · `Workflow Mapping` · `AI Agent Assist`
+`Real-time Dashboards` · `Predictive Lead Scoring`
+
+<br/>
+
+**[→ Full Case Study](https://shubhamdesign.in)**
+
+<br/>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+`🌐 PORTFOLIO — HAND-CODED FROM SCRATCH`
+
+**[shubhamdesign.in](https://shubhamdesign.in)**
+
+</div>
+
+<br/>
+
+> *"If you call yourself a designer who ships, your own portfolio better not be a template."*
+
+Vanilla HTML, CSS, JavaScript. Custom boot loader, page-pane architecture, sound design. Zero dependencies. Zero frameworks. Every line written by hand.
+
+```
+Stack:  HTML · CSS · JavaScript · Zero dependencies
+        Custom page-pane architecture · Boot loader · Sound design
+```
+
+<div align="center">
+
+**[→ Visit Live](https://shubhamdesign.in)** &nbsp; · &nbsp; *Right-click → View Source for proof*
+
+</div>
+
+<br/>
 
 ---
 
-## STEP 7: Create the Guestbook Issue
+<br/>
 
-The README has a small "Leave a hello in the guestbook" link at the bottom. It points to Issue #1 in your repo. You need to create it:
+<!-- CAREER TIMELINE -->
 
-1. Go to your `shubhss160696-gif` repository
-2. Click the **Issues** tab at the top
-3. Click **New issue**
-4. Title: `📝 Guestbook — Say Hello!`
-5. Body:
-   ```
-   Visited my profile? Leave a message below!
-   
-   Just comment with a hello, a wave, or anything you want to say.
-   ```
-6. Click **Submit new issue**
-7. **Pin the issue:** Click the `...` menu on the issue → **Pin issue**
+<div align="center">
 
-Now the guestbook link in your README works, and anyone can comment.
+### `THE JOURNEY`
 
----
+</div>
 
-## STEP 8: Create Your Three Project Repositories
+<br/>
 
-### Repo 1: Claims AI Journey
-1. Click **+** → **New repository**
-2. Name: `claims-ai-journey`
-3. Description: `AI-assisted insurance claims experience redesign — +35% completion, −22% support costs`
-4. ✅ Public · ✅ Add a README file
-5. Click **Create repository**
+```
+ 2025–Now   CARE HEALTH INSURANCE ─────── Senior UX/UI Designer
+            ├── Claims AI Journey           +35% completion · −22% support
+            └── LMS AI Agent                +34% conversion · ₹18Cr revenue
+            
+ 2021–2025  ISHA FOUNDATION ──────────── Design Lead
+            ├── Design system (0→1)         −35% dev handoff time
+            ├── 10+ live products           Inner Engineering · Sadhguru App
+            ├── Linga Bhairavi site          60K visits month 1 · 3× retention  
+            └── Save Soil campaign          UNESCO · UNEP recognition
+            
+ 2020–2021  TIMES OF INDIA / ZERODHA ─── UX/UI Designer
+            ├── Times Ascent                Led 4-person design team
+            └── Zerodha Varsity             India's largest financial learning platform
+            
+ 2015–2019  BANARAS HINDU UNIVERSITY ──── BFA — Design & Applied Arts
+```
 
-### Repo 2: LMS AI Agent
-1. Click **+** → **New repository**
-2. Name: `lms-ai-agent`
-3. Description: `AI agent-powered lead management system for 800+ sales agents — +34% conversion, ₹18Cr revenue impact`
-4. ✅ Public · ✅ Add a README file
-5. Click **Create repository**
-
-### Repo 3: Portfolio Website
-1. Click **+** → **New repository**
-2. Name: `portfolio`
-3. Description: `Hand-coded portfolio — vanilla HTML/CSS/JS, no framework, no template → shubhamdesign.in`
-4. ✅ Public · ✅ Add a README file
-5. Click **Create repository**
+<br/>
 
 ---
 
-## STEP 9: Pin Your Three Repos
+<br/>
 
-1. Go to your profile: `github.com/shubhss160696-gif`
-2. Scroll down past your README to "Popular repositories"
-3. Click **Customize your pins**
-4. Check:
-   - ✅ claims-ai-journey
-   - ✅ lms-ai-agent
-   - ✅ portfolio
-5. Click **Save**
+<!-- STACK -->
 
----
+<div align="center">
 
-## STEP 10: Add a Profile Picture
+### `STACK`
 
-1. Click your avatar (top right) → **Settings**
-2. Under "Profile picture", upload a professional headshot
-3. This appears everywhere — your profile, repos, comments
+<br/>
 
----
+**Design**
 
-## OPTIONAL: Upload Your Website Source Code
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-0D1117?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
+![Framer](https://img.shields.io/badge/Framer-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF)
+![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=miro&logoColor=F7C922)
 
-Upload the actual HTML/CSS/JS files of shubhamdesign.in to the `portfolio` repo:
+**AI × Product**
 
-1. Go to your `portfolio` repo
-2. Click **Add file** → **Upload files**
-3. Drag in your website files
-4. Click **Commit changes**
+![Claude](https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![AI Design](https://img.shields.io/badge/LLM_Interface_Design-0D1117?style=for-the-badge&logo=openai&logoColor=412991)
 
-This is the "view source proof" — anyone can verify you hand-coded it.
+**Code**
 
----
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JS-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## QUICK CHECKLIST
+</div>
 
-- [ ] Profile repo `shubhss160696-gif` created
-- [ ] `images/banner.gif` uploaded (Da Vinci pixel art)
-- [ ] README.md pasted and committed
-- [ ] Profile sidebar filled out (name, bio, location, website)
-- [ ] Guestbook issue created and pinned
-- [ ] 3 project repos created
-- [ ] Repos pinned to profile
-- [ ] Profile picture uploaded
-- [ ] Portfolio source code uploaded (optional but recommended)
+<br/>
 
 ---
 
-Done. Your profile is live.
+<br/>
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhss160696-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhss160696-gif&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="49%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<br/>
+
+```
+Case studies & full portfolio → shubhamdesign.in
+Most work is under NDA — numbers are real, details are anonymised where needed.
+```
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shubhss160696-gif&color=58A6FF&style=flat-square&label=visitors)
+
+<br/>
+
+<!-- Guestbook — subtle, just a small link -->
+<sub>Visited my profile? <a href="https://github.com/shubhss160696-gif/shubhss160696-gif/issues/1">Leave a hello in the guestbook →</a></sub>
+
+<br/><br/>
+
+</div>
