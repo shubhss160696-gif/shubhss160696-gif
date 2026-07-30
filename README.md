@@ -1,282 +1,179 @@
-<!-- HEADER BANNER -->
-<!-- 💡 TIP: Replace this with a custom banner image later. -->
-<!-- Upload an image to your repo's images/ folder, then use: -->
-<!-- ![Header](./images/header.png) -->
+# How to Set Up Your GitHub Profile — Complete Beginner Guide
 
-<div align="center">
-
-<!-- Typing SVG — auto-animates your titles -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubham+Singh;Product+Designer+Who+Ships+%F0%9F%9A%80;Not+just+Figma+files+%E2%80%94+real+products." alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- One-liner that does the heavy lifting -->
-```
-I design it. I build it. I ship it.
-```
-
-<br/>
-
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shubhamdesign.in-000000?style=for-the-badge&labelColor=000000)](https://shubhamdesign.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-singh)
-
-</div>
+Total time: ~15 minutes. Follow each step exactly.
 
 ---
 
-<!-- ABOUT ME -->
+## STEP 1: Create a GitHub Account (skip if you already have one)
 
-<img align="right" alt="Design to Code" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-### `> whoami`
-
-I'm a **Product Designer** who got tired of handing off Figma files  
-and hoping someone would build them right.
-
-So I started building them myself.
-
-Currently at **Care Health Insurance**, where design decisions  
-I made are generating **₹18 Crore in additional monthly revenue**.
-
-Before that — **Design Lead at Isha Foundation** for 4 years,  
-shipping products used by millions.
-
-**This portfolio?** Hand-coded. No Webflow. No Framer. No template.  
-→ **[shubhamdesign.in](https://shubhamdesign.in)** *(right-click → view source for proof)*
-
-<br clear="right"/>
+1. Go to **github.com**
+2. Click **Sign up**
+3. Your username is: `shubhss160696-gif`
+4. Verify your email
 
 ---
 
-<!-- WHAT I'M UP TO -->
+## STEP 2: Create the "Magic" Profile Repository
 
-<div align="center">
+GitHub has a secret feature: if you create a repository with the **exact same name as your username**, its README.md file becomes your profile page.
 
-### ⚡ What I'm Building Right Now
-
-</div>
-
-```js
-const shubham = {
-    role: "Product Designer Who Ships",
-    location: "India 🇮🇳",
-    currentlyAt: "Care Health Insurance",
-    
-    building: [
-        "🏥 AI-assisted insurance claims journeys (live in production)",
-        "🤖 AI agent-powered sales tools for 800+ daily agents",
-        "🌐 Hand-coded portfolio with custom page architecture",
-    ],
-    
-    designStack: ["Figma", "Design Systems", "Design Tokens", "WCAG 2.1"],
-    aiStack: ["Conversational UI", "LLM Interface Design", "AI Agent Workflows"],
-    codeStack: ["HTML", "CSS", "JavaScript", "Claude Code", "Cursor"],
-    
-    philosophy: "If I designed it, I should be able to build it."
-};
-```
+1. Log into GitHub
+2. Click the **+** button (top right corner) → **New repository**
+3. In "Repository name" type exactly: `shubhss160696-gif`
+4. You'll see a green message: *"shubhss160696-gif is a special repository"* — that's correct
+5. Check ✅ **Public**
+6. Check ✅ **Add a README file**
+7. Click **Create repository**
 
 ---
 
-<!-- FEATURED PROJECTS -->
+## STEP 3: Upload Your Banner GIF
 
-<div align="center">
+This is the Da Vinci pixel art GIF — it needs to live inside the repo.
 
-### 🔥 Featured Work — Designed AND Shipped
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-#### 🏥 Claims AI-Assisted Journey
-**Care Health Insurance**
-
-</div>
-
-The claims experience was broken — users abandoned mid-flow,  
-support tickets were through the roof.
-
-I redesigned the entire journey with AI-assisted guidance,  
-progressive disclosure, and contextual help.
-
-```
-┌─────────────────────────────────────┐
-│          BEFORE → AFTER             │
-├─────────────────────────────────────┤
-│  Completion Rate    ██████░░ +35%   │
-│  Support Costs      ████░░░░ −22%   │
-│  Drop-off Points    ███░░░░░ Fixed  │
-└─────────────────────────────────────┘
-```
-
-`UX Audit` `Behaviour Analytics` `Cognitive Load Mapping`  
-`Progressive Disclosure` `AI-Assisted Flows`
-
-**[→ View Case Study](https://shubhamdesign.in)**
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-#### 🤖 LMS — AI Agent Sales Tool
-**Care Health Insurance**
-
-</div>
-
-800+ call center agents were juggling 4 systems mid-call.  
-High cognitive load = lost sales = lost revenue.
-
-I built a 0→1 redesign with AI agent assist,  
-real-time dashboards, and predictive lead scoring.
-
-```
-┌─────────────────────────────────────┐
-│          THE NUMBERS                │
-├─────────────────────────────────────┤
-│  Lead→Sale Conv.    ██████░░ +34%   │
-│  Handle Time        ████████ −52%   │
-│  Monthly Revenue    ████████ +₹18Cr │
-│  Expert Score       █████████ 9.1   │
-└─────────────────────────────────────┘
-```
-
-`Agent Shadowing` `Workflow Mapping` `AI Agent Assist`  
-`Real-time Dashboards` `Predictive Scoring`
-
-**[→ View Case Study](https://shubhamdesign.in)**
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-#### 🌐 Portfolio — Hand-Coded From Scratch
-**[shubhamdesign.in](https://shubhamdesign.in)**
-
-</div>
-
-> *"If you call yourself a designer who ships, your own portfolio better not be a template."*
-
-Built with vanilla HTML, CSS, and JavaScript — no framework, no CMS, no shortcuts.  
-Custom boot loader, page-pane architecture, sound design, zero dependencies.
-
-```
-Stack:  Vanilla HTML · CSS · JavaScript
-        Custom page-pane architecture · Boot loader · Sound design
-        Zero dependencies · Zero frameworks · 100% hand-written
-```
-
-**[→ Visit Live Site](https://shubhamdesign.in)**
+1. Inside your new `shubhss160696-gif` repository, click **Add file** → **Create new file**
+2. In the filename field, type: `images/placeholder.txt`
+   (This creates the `images` folder — GitHub needs at least one file to create a folder)
+3. Type anything in the file body (like "placeholder")
+4. Click **Commit changes**
+5. Now click into the `images` folder
+6. Click **Add file** → **Upload files**
+7. Drag in the `Pixel_art_Da_Vinci_paints_compressed.gif` file I gave you
+8. **IMPORTANT:** Before committing, rename the file to `banner.gif`:
+   - Actually, GitHub doesn't let you rename during upload
+   - So first rename the file on your computer to `banner.gif`
+   - Then upload it
+9. Click **Commit changes**
+10. You can now delete the `placeholder.txt` file (click it → click the trash icon → commit)
 
 ---
 
-<!-- CAREER HIGHLIGHTS -->
+## STEP 4: Paste the README
 
-<div align="center">
-
-### 📍 The Journey So Far
-
-</div>
-
-```
- 2025–Now   CARE HEALTH INSURANCE          Senior UX/UI Designer
-            ├── Claims AI Journey           → +35% completion, −22% support
-            └── LMS AI Agent                → +34% conversion, ₹18Cr revenue
-            
- 2021–2025  ISHA FOUNDATION                Design Lead
-            ├── Design system from scratch  → −35% dev handoff time
-            ├── 10+ live products shipped   → Inner Engineering, Sadhguru App
-            ├── Linga Bhairavi website      → 60K visits month 1, 3× retention  
-            └── Save Soil campaign          → Recognised by UNESCO & UNEP
-            
- 2020–2021  TIMES OF INDIA / ZERODHA       UX/UI Designer
-            ├── Times Ascent               → Led 4-person design team
-            └── Zerodha Varsity            → India's largest financial learning platform
-            
- 2015–2019  BANARAS HINDU UNIVERSITY       BFA — Design & Applied Arts
-```
+1. Go back to your repository's main page
+2. Click the **pencil icon** (✏️) on the README.md file
+3. **Select all** the default text and **delete it**
+4. Open the `README.md` file I gave you
+5. **Copy everything** and **paste it** into the GitHub editor
+6. Click **Commit changes** → **Commit changes**
 
 ---
 
-<!-- TECH STACK WITH VISUAL BADGES -->
+## STEP 5: Verify the Banner Works
 
-<div align="center">
-
-### 🛠️ What I Work With
-
-<br>
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=miro&logoColor=050036)
-
-**AI & Product**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/LLM_Interface_Design-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Code**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-</div>
+1. Go to `github.com/shubhss160696-gif`
+2. The Da Vinci GIF should be playing at the top
+3. If it shows a broken image icon, the path is wrong — make sure:
+   - The file is at: `images/banner.gif` (not `images/Pixel_art_Da_Vinci_paints_compressed.gif`)
+   - If the filename is different, edit the README and change `./images/banner.gif` to match
 
 ---
 
-<!-- GITHUB STATS -->
+## STEP 6: Set Up Your Profile Sidebar
 
-<div align="center">
-
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhss160696-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7F7F7&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhss160696-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=F7F7F7" width="48%" />
-
-</div>
-
----
-
-<!-- GUESTBOOK -->
-
-<div align="center">
-
-### 📝 Guestbook
-
-*Visited my profile? Drop a hello!*
-
-[![Sign my guestbook](https://img.shields.io/badge/✍️_Sign_My_Guestbook-Leave_a_message-58A6FF?style=for-the-badge)](https://github.com/shubhss160696-gif/shubhss160696-gif/issues/1)
-
-</div>
+1. On your profile page, click **Edit profile** (left sidebar)
+2. Fill in:
+   - **Name:** Shubham Singh
+   - **Bio:** Product Designer who ships · AI × Design × Code · shubhamdesign.in
+   - **Company:** Care Health Insurance
+   - **Location:** India
+   - **Website:** https://shubhamdesign.in
+3. Click **Save**
 
 ---
 
-<!-- FOOTER -->
+## STEP 7: Create the Guestbook Issue
 
-<div align="center">
+The README has a small "Leave a hello in the guestbook" link at the bottom. It points to Issue #1 in your repo. You need to create it:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+1. Go to your `shubhss160696-gif` repository
+2. Click the **Issues** tab at the top
+3. Click **New issue**
+4. Title: `📝 Guestbook — Say Hello!`
+5. Body:
+   ```
+   Visited my profile? Leave a message below!
+   
+   Just comment with a hello, a wave, or anything you want to say.
+   ```
+6. Click **Submit new issue**
+7. **Pin the issue:** Click the `...` menu on the issue → **Pin issue**
 
-```
-This profile exists because GitHub should show evidence, not just Figma links.
-Case studies & full portfolio → shubhamdesign.in
-```
+Now the guestbook link in your README works, and anyone can comment.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shubhss160696-gif&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-</div>
+## STEP 8: Create Your Three Project Repositories
+
+### Repo 1: Claims AI Journey
+1. Click **+** → **New repository**
+2. Name: `claims-ai-journey`
+3. Description: `AI-assisted insurance claims experience redesign — +35% completion, −22% support costs`
+4. ✅ Public · ✅ Add a README file
+5. Click **Create repository**
+
+### Repo 2: LMS AI Agent
+1. Click **+** → **New repository**
+2. Name: `lms-ai-agent`
+3. Description: `AI agent-powered lead management system for 800+ sales agents — +34% conversion, ₹18Cr revenue impact`
+4. ✅ Public · ✅ Add a README file
+5. Click **Create repository**
+
+### Repo 3: Portfolio Website
+1. Click **+** → **New repository**
+2. Name: `portfolio`
+3. Description: `Hand-coded portfolio — vanilla HTML/CSS/JS, no framework, no template → shubhamdesign.in`
+4. ✅ Public · ✅ Add a README file
+5. Click **Create repository**
+
+---
+
+## STEP 9: Pin Your Three Repos
+
+1. Go to your profile: `github.com/shubhss160696-gif`
+2. Scroll down past your README to "Popular repositories"
+3. Click **Customize your pins**
+4. Check:
+   - ✅ claims-ai-journey
+   - ✅ lms-ai-agent
+   - ✅ portfolio
+5. Click **Save**
+
+---
+
+## STEP 10: Add a Profile Picture
+
+1. Click your avatar (top right) → **Settings**
+2. Under "Profile picture", upload a professional headshot
+3. This appears everywhere — your profile, repos, comments
+
+---
+
+## OPTIONAL: Upload Your Website Source Code
+
+Upload the actual HTML/CSS/JS files of shubhamdesign.in to the `portfolio` repo:
+
+1. Go to your `portfolio` repo
+2. Click **Add file** → **Upload files**
+3. Drag in your website files
+4. Click **Commit changes**
+
+This is the "view source proof" — anyone can verify you hand-coded it.
+
+---
+
+## QUICK CHECKLIST
+
+- [ ] Profile repo `shubhss160696-gif` created
+- [ ] `images/banner.gif` uploaded (Da Vinci pixel art)
+- [ ] README.md pasted and committed
+- [ ] Profile sidebar filled out (name, bio, location, website)
+- [ ] Guestbook issue created and pinned
+- [ ] 3 project repos created
+- [ ] Repos pinned to profile
+- [ ] Profile picture uploaded
+- [ ] Portfolio source code uploaded (optional but recommended)
+
+---
+
+Done. Your profile is live.
