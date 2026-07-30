@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://github.com/shubhss160696-gif/shubhss160696-gif/raw/main/banner.gif" alt="Banner" width="100%" height="10%"/>
+<img src="https://github.com/shubhss160696-gif/shubhss160696-gif/raw/main/banner.gif" alt="Banner" width="100%"/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
