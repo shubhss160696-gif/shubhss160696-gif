@@ -7,27 +7,27 @@
 
 <br>
 
-<!-- INTRO CARD with flanking links -->
-<table align="center">
+<!-- INTRO CARD — edge to edge, matching banner width -->
+<table width="100%">
 <tr>
-<td align="center" valign="middle" width="15%">
-<a href="https://shubhamdesign.in"><b>Visit my<br>portfolio</b></a><br>🌐
+<td width="10%" align="center" valign="middle">
+<a href="https://shubhamdesign.in"><b>Visit my<br>portfolio</b></a><br><br>
+<img src="https://em-content.zobj.net/source/apple/391/globe-with-meridians_1f310.png" width="45"/>
 </td>
-<td align="center" valign="middle">
-
+<td width="80%" align="center">
 <pre>
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║             SHUBHAM SINGH — PRODUCT DESIGNER WHO SHIPS                ║
+║             SHUBHAM SINGH - PRODUCT DESIGNER WHO SHIPS                ║
 ║                                                                       ║
 ║       6+ YEARS · AI PRODUCT DESIGN · DESIGN SYSTEMS · HEALTHTECH     ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 </pre>
-
 </td>
-<td align="center" valign="middle" width="15%">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM"><b>Listen to<br>cool music</b></a><br>🎵
+<td width="10%" align="center" valign="middle">
+<a href="https://www.youtube.com/watch?v=Ec08db2hP10&list=RDEc08db2hP10&start_radio=1"><b>Listen to<br>cool music</b></a><br><br>
+<img src="https://em-content.zobj.net/source/apple/391/musical-note_1f3b5.png" width="45"/>
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ Scope:       UX audit → behaviour analytics →
 </td>
 <td width="50%" valign="top">
 
-**[LMS — AI AGENT SALES TOOL](https://shubhamdesign.in)**
+**[LMS - AI AGENT SALES TOOL](https://shubhamdesign.in)**
 Care Health Insurance · 0→1 redesign for 800+ agents
 ```
 Conversion:  +34% lead-to-sale
@@ -144,7 +144,7 @@ Scope:       Agent shadowing → workflow mapping →
 <tr>
 <td colspan="2" valign="top">
 
-**[PORTFOLIO — HAND-CODED](https://shubhamdesign.in)**
+**[PORTFOLIO - HAND-CODED](https://shubhamdesign.in)**
 Personal · No Webflow, no Framer, no template
 ```
 Stack:  Vanilla HTML · CSS · JavaScript
@@ -178,20 +178,6 @@ Status: In progress
 
 </td>
 <td width="50%" valign="top">
-
-**[LMS AGENT ASSIST — AI DEMO](https://shubhamdesign.in)**
-AI-powered agent workflow demo
-```
-Stack:  Next.js · Claude API · Tailwind
-Flow:   Live call → AI lead scoring →
-         smart suggestions → auto-fill
-Status: Coming soon
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 **MORE COMING**
 Building in public
@@ -239,9 +225,9 @@ Times Ascent:    Led 4-person design team
 Zerodha Varsity: India's largest financial
                   learning platform
 
-Education:       BFA — Design & Applied Arts
+Education:       BFA - Design & Applied Arts
                   Banaras Hindu University
-                  (2015–2019)
+                  (2015-2019)
 ```
 
 </td>
