@@ -7,22 +7,30 @@
 
 <br>
 
-<!-- INTRO CARD — centered with links on either side -->
-<div align="center">
+<!-- INTRO CARD with flanking links -->
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="15%">
+<a href="https://shubhamdesign.in"><b>Visit my<br>portfolio</b></a><br>🌐
+</td>
+<td align="center" valign="middle">
 
 <pre>
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║  SHUBHAM SINGH — PRODUCT DESIGNER WHO SHIPS                          ║
+║             SHUBHAM SINGH — PRODUCT DESIGNER WHO SHIPS                ║
 ║                                                                       ║
-║  6+ YEARS · AI PRODUCT DESIGN · DESIGN SYSTEMS · HEALTHTECH          ║
+║       6+ YEARS · AI PRODUCT DESIGN · DESIGN SYSTEMS · HEALTHTECH     ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-<a href="https://shubhamdesign.in"><b>Visit my portfolio</b></a> &nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM"><b>Listen to cool music</b></a> &nbsp; 🎵
-
-</div>
+</td>
+<td align="center" valign="middle" width="15%">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM"><b>Listen to<br>cool music</b></a><br>🎵
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -170,6 +178,20 @@ Status: In progress
 
 </td>
 <td width="50%" valign="top">
+
+**[LMS AGENT ASSIST — AI DEMO](https://shubhamdesign.in)**
+AI-powered agent workflow demo
+```
+Stack:  Next.js · Claude API · Tailwind
+Flow:   Live call → AI lead scoring →
+         smart suggestions → auto-fill
+Status: Coming soon
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **MORE COMING**
 Building in public
