@@ -147,48 +147,6 @@ Proof:  Right-click → View Source
 
 <br>
 
-## ▓▓▓ BEFORE CARE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[ISHA FOUNDATION](https://shubhamdesign.in)**
-Design Lead · 4 years
-```
-Design system (0→1):  −35% dev handoff time
-Live products:        10+ shipped
-                       Inner Engineering
-                       Sadhguru App
-Linga Bhairavi site:  60K visits month 1
-                       3× previous retention
-Save Soil campaign:   UNESCO & UNEP
-                       recognition
-```
-
-</td>
-<td width="50%" valign="top">
-
-**[TIMES OF INDIA / ZERODHA](https://shubhamdesign.in)**
-UX/UI Designer
-```
-Times Ascent:    Led 4-person design team
-                  Careers platform redesign
-
-Zerodha Varsity: India's largest financial
-                  learning platform
-
-Education:       BFA — Design & Applied Arts
-                  Banaras Hindu University
-                  (2015–2019)
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## ▓▓▓ AI DEMOS
 
 Public demos exploring AI × design workflows.
@@ -216,6 +174,48 @@ Building in public
 → Component generator from design briefs
 → Automated UX audit using AI + analytics
 → Design token automation
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ▓▓▓ BEFORE CARE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[ISHA FOUNDATION](https://shubhamdesign.in)**
+Design Lead · 4 years
+```
+Design system (0→1):  −35% dev handoff time
+Live products:        10+ shipped
+                       Inner Engineering
+                       Sadhguru App
+Linga Bhairavi site:  60K visits month 1
+                       3× previous retention
+Save Soil campaign:   UNESCO & UNEP
+                       recognition
+```
+
+</td>
+<td width="50%" valign="top">
+
+**[ROZGAAR INDIA / ZERODHA](https://shubhamdesign.in)**
+UX/UI Designer
+```
+Times Ascent:    Led 4-person design team
+                  Careers platform redesign
+
+Zerodha Varsity: India's largest financial
+                  learning platform
+
+Education:       BFA — Design & Applied Arts
+                  Banaras Hindu University
+                  (2015–2019)
 ```
 
 </td>
