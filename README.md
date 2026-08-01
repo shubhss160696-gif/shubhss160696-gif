@@ -179,6 +179,20 @@ Status: In progress
 </td>
 <td width="50%" valign="top">
 
+**[LMS - AI AGENT ASSIST](https://shubhamdesign.in)**
+AI-powered sales agent workflow
+```
+Stack:  Next.js · AI Agent · Tailwind
+Flow:   Lead intake → AI scoring →
+         agent assist → real-time dashboard
+Status: In progress
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **MORE COMING**
 Building in public
 ```
