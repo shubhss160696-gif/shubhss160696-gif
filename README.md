@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://github.com/shubhss160696-gif/shubhss160696-gif/raw/main/banner.gif" alt="Banner" width="100%"/>
+<img src="https://github.com/shubhamdesigns/shubhamdesigns/raw/main/banner.gif" alt="Banner" width="100%"/>
 
 </div>
 
@@ -254,8 +254,8 @@ Education:       BFA - Design & Applied Arts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhss160696-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhss160696-gif&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamdesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdesigns&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="49%" />
 
 </div>
 
@@ -280,8 +280,8 @@ Portfolio & case studies available at shubhamdesign.in
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shubhss160696-gif&color=58A6FF&style=flat-square&label=visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=shubhamdesigns&color=58A6FF&style=flat-square&label=visitors)
 
-<sub>Visited my profile? <a href="https://github.com/shubhss160696-gif/shubhss160696-gif/issues/1">Leave a hello in the guestbook →</a></sub>
+<sub>Visited my profile? <a href="https://github.com/shubhamdesigns/shubhamdesigns/issues/1">Leave a hello in the guestbook →</a></sub>
 
 </div>
