@@ -7,7 +7,10 @@
 
 <br>
 
-```
+<!-- INTRO CARD — centered with links on either side -->
+<div align="center">
+
+<pre>
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
 ║  SHUBHAM SINGH — PRODUCT DESIGNER WHO SHIPS                          ║
@@ -15,14 +18,15 @@
 ║  6+ YEARS · AI PRODUCT DESIGN · DESIGN SYSTEMS · HEALTHTECH          ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%E2%86%92_shubhamdesign.in-Portfolio-58A6FF?style=flat-square&labelColor=0D1117&color=58A6FF)](https://shubhamdesign.in)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%E2%86%92_LinkedIn-Connect-0A66C2?style=flat-square&labelColor=0D1117&color=0A66C2)](https://linkedin.com/in/shubham-singh)
+<a href="https://shubhamdesign.in"><b>Visit my portfolio</b></a> &nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM"><b>Listen to cool music</b></a> &nbsp; 🎵
 
 </div>
+
+<br>
+
+---
 
 <br>
 
