@@ -45,7 +45,6 @@
 → Building AI agent workflows for 800+ sales agents
 → Exploring design-to-code with Claude Code & Cursor
 → Shipping a hand-coded portfolio — no frameworks, no templates
-→ Documenting AI-augmented design processes
 ```
 
 <br>
@@ -58,11 +57,9 @@
 
 **DESIGN**
 ```
-Figma
-Design Systems
-Design Tokens
+Figma · Design Systems
+Design Tokens · Prototyping
 Accessibility (WCAG 2.1)
-Prototyping
 ```
 
 </td>
@@ -70,10 +67,8 @@ Prototyping
 
 **CODE**
 ```
-HTML / CSS / JavaScript
-React · Next.js
-Tailwind CSS
-Webflow / Framer
+HTML · CSS · JavaScript
+React · Next.js · Tailwind CSS
 ```
 
 </td>
@@ -83,9 +78,7 @@ Webflow / Framer
 
 **AI TOOLS**
 ```
-Claude Code
-Cursor
-Conversational UI
+Claude Code · Cursor
 LLM Interface Design
 AI Agent Workflows
 ```
@@ -95,11 +88,9 @@ AI Agent Workflows
 
 **PROCESS**
 ```
-Agile / Scrum
-Behaviour Analytics
+Agile · Behaviour Analytics
 Stakeholder Management
 Design Leadership
-Cross-team Communication
 ```
 
 </td>
@@ -110,61 +101,116 @@ Cross-team Communication
 
 ## ▓▓▓ FEATURED WORK
 
-**[How I helped Care Health Insurance reduce claim abandonment by 35% and cut support costs by 22%](https://shubhamdesign.in/#/claims)**
-`Care Health Insurance` `End-to-end redesign` `+35% completion` `−22% support costs`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**[How I helped Care Health Insurance reduce claim abandonment by 35% and cut support costs by 22%](https://shubhamdesign.in/#/claims)**
+
+```
++35% completion rate
+−22% support costs
+End-to-end UX redesign
+```
+
+</td>
+<td width="50%" valign="top">
 
 **[How I built the AI sales tool that generates ₹18Cr additional revenue every month for 800+ agents](https://shubhamdesign.in/#/lms)**
-`Care Health Insurance` `0→1 redesign` `+34% conversion` `−52% call duration` `+₹18Cr monthly`
 
-<br>
+```
++34% lead-to-sale conversion
+−52% average call duration
++₹18Cr additional monthly revenue
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[How I helped Rajat Suri (Co-founder, Lyft) turn dead group chats into outcome-driven communities](https://shubhamdesign.in/#/tribe)**
-`iOS Mobile` `Shipped 2024` `3× decision resolution` `−41% churn` `+68% engagement`
 
-<br>
+```
+3× faster decision resolution
+−41% 30-day churn
++68% group engagement
+```
+
+</td>
+<td width="50%" valign="top">
 
 **[PORTFOLIO — HAND-CODED](https://shubhamdesign.in)**
-`Vanilla HTML · CSS · JS` `Zero frameworks` `26MB → 3.66MB` `Right-click → View Source`
+
+```
+Vanilla HTML · CSS · JS
+Zero frameworks · Zero dependencies
+26MB → 3.66MB · Right-click → View Source
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## ▓▓▓ AI DEMOS
 
-Public demos exploring AI × design workflows.
-
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **[CLAIMS INTELLIGENCE DASHBOARD ↗](https://claims-ai-journey.vercel.app)**
-`Next.js` `Claude API` `Tailwind` `Live`
-> Upload a claim document → Claude extracts fields → form auto-fills with confidence scores
 
-<br>
+```
+Stack:  Next.js · Claude API · Tailwind
+Status: Live
+```
+
+</td>
+<td width="50%" valign="top">
 
 **LMS — AI AGENT ASSIST**
-`Next.js` `AI Agent` `Tailwind` `Live Demo coming soon`
-> Lead intake → AI scoring → agent assist → real-time plan recommendations
 
-<br>
+```
+Stack:  Next.js · Claude API · Tailwind
+Status: Live Demo coming soon
+```
 
-**MORE COMING — building in public**
-```
-→ AI design review tool for design systems
-→ Component generator from design briefs
-```
+</td>
+</tr>
+</table>
 
 <br>
 
 ## ▓▓▓ BEFORE CARE
 
-**[ISHA FOUNDATION](https://shubhamdesign.in)** — Design Lead · 4 years
-`−35% dev handoff time` `10+ live products` `60K visits month 1` `UNESCO & UNEP recognition`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**[ISHA FOUNDATION](https://shubhamdesign.in)** — Design Lead · 4 years
+
+```
+−35% dev handoff time
+10+ live products shipped
+60K visits · UNESCO & UNEP recognition
+```
+
+</td>
+<td width="50%" valign="top">
 
 **[ROZGAAR INDIA / ZERODHA](https://shubhamdesign.in)** — UX/UI Designer
-`Times Ascent careers platform` `Zerodha Varsity` `BFA — Banaras Hindu University 2015–2019`
+
+```
+Times Ascent · Zerodha Varsity
+BFA — Banaras Hindu University
+2015–2019
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -180,7 +226,6 @@ Public demos exploring AI × design workflows.
 
 ```
 Most work is under NDA — numbers are real, details are anonymised where needed.
-Portfolio & case studies available at shubhamdesign.in
 ```
 
 *Last updated: August 2026*
