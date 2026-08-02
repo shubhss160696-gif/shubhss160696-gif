@@ -110,66 +110,23 @@ Cross-team Communication
 
 ## ▓▓▓ FEATURED WORK
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[How I helped Care Health Insurance reduce claim abandonment by 35% and cut support costs by 22%](https://shubhamdesign.in/#/claims)**
-Care Health Insurance · End-to-end redesign
-```
-Completion:  +35% claim completion rate
-Support:     −22% support costs
-Drop-off:    Fixed at every critical step
-Scope:       UX audit → behaviour analytics →
-              cognitive load mapping →
-              AI-assisted progressive disclosure
-```
+`Care Health Insurance` `End-to-end redesign` `+35% completion` `−22% support costs`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 **[How I built the AI sales tool that generates ₹18Cr additional revenue every month for 800+ agents](https://shubhamdesign.in/#/lms)**
-Care Health Insurance · 0→1 redesign
-```
-Conversion:  +34% lead-to-sale
-Handle time: −52% average call duration
-Revenue:     +₹18Cr additional monthly
-Score:       9.1/10 expert review
-Scope:       Agent shadowing → workflow mapping →
-              AI agent assist → predictive scoring
-```
+`Care Health Insurance` `0→1 redesign` `+34% conversion` `−52% call duration` `+₹18Cr monthly`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
 **[How I helped Rajat Suri (Co-founder, Lyft) turn dead group chats into outcome-driven communities](https://shubhamdesign.in/#/tribe)**
-iOS Mobile · Shipped 2024
-```
-Decision resolution:  3× faster
-30-day churn:         −41%
-Engagement:           +68% faster
-Beta:                 340 groups · 12 weeks · 3-person team
-Scope:                Information architecture · thread interaction
-                       design · community mechanics · iOS mobile
-```
+`iOS Mobile` `Shipped 2024` `3× decision resolution` `−41% churn` `+68% engagement`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**[PORTFOLIO - HAND-CODED](https://shubhamdesign.in)**
-Personal · Hand-coded from scratch · 26MB → 3.66MB optimization
-```
-Stack:  Vanilla HTML · CSS · JavaScript
-        Custom page-pane architecture · Boot loader · Sound design
-        Zero frameworks · Zero dependencies
-Proof:  Right-click → View Source
-```
-
-</td>
-</tr>
-</table>
+**[PORTFOLIO — HAND-CODED](https://shubhamdesign.in)**
+`Vanilla HTML · CSS · JS` `Zero frameworks` `26MB → 3.66MB` `Right-click → View Source`
 
 <br>
 
@@ -177,88 +134,37 @@ Proof:  Right-click → View Source
 
 Public demos exploring AI × design workflows.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**[CLAIMS INTELLIGENCE DASHBOARD](https://claims-ai-journey.vercel.app)**
-AI-powered claims document scanner
-```
-Stack:  Next.js · Claude API · Tailwind
-Flow:   Upload document → AI extraction →
-         auto-filled form → confidence scores
-Status: Live ↗
-```
+**[CLAIMS INTELLIGENCE DASHBOARD ↗](https://claims-ai-journey.vercel.app)**
+`Next.js` `Claude API` `Tailwind` `Live`
+> Upload a claim document → Claude extracts fields → form auto-fills with confidence scores
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**LMS - AI AGENT ASSIST**
-AI-powered sales agent workflow
-```
-Stack:  Next.js · AI Agent · Tailwind
-Flow:   Lead intake → AI scoring →
-         agent assist → real-time dashboard
-Status: Live Demo coming soon
-```
+**LMS — AI AGENT ASSIST**
+`Next.js` `AI Agent` `Tailwind` `Live Demo coming soon`
+> Lead intake → AI scoring → agent assist → real-time plan recommendations
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br>
 
-**MORE COMING**
-Building in public
+**MORE COMING — building in public**
 ```
 → AI design review tool for design systems
 → Component generator from design briefs
 ```
 
-</td>
-</tr>
-</table>
-
 <br>
 
 ## ▓▓▓ BEFORE CARE
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[ISHA FOUNDATION](https://shubhamdesign.in)** — Design Lead · 4 years
+`−35% dev handoff time` `10+ live products` `60K visits month 1` `UNESCO & UNEP recognition`
 
-**[ISHA FOUNDATION](https://shubhamdesign.in)**
-Design Lead · 4 years
-```
-Design system (0→1):  −35% dev handoff time
-Live products:        10+ shipped
-                       Inner Engineering
-                       Sadhguru App
-Linga Bhairavi site:  60K visits month 1
-                       3× previous retention
-Save Soil campaign:   UNESCO & UNEP
-                       recognition
-```
+<br>
 
-</td>
-<td width="50%" valign="top">
-
-**[ROZGAAR INDIA / ZERODHA](https://shubhamdesign.in)**
-UX/UI Designer
-```
-Times Ascent:    Led 4-person design team
-                  Careers platform redesign
-
-Zerodha Varsity: India's largest financial
-                  learning platform
-
-Education:       BFA - Design & Applied Arts
-                  Banaras Hindu University
-                  (2015-2019)
-```
-
-</td>
-</tr>
-</table>
+**[ROZGAAR INDIA / ZERODHA](https://shubhamdesign.in)** — UX/UI Designer
+`Times Ascent careers platform` `Zerodha Varsity` `BFA — Banaras Hindu University 2015–2019`
 
 <br>
 
