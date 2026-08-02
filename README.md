@@ -71,7 +71,7 @@ Prototyping
 **CODE**
 ```
 HTML / CSS / JavaScript
-React (basics)
+React · Next.js
 Tailwind CSS
 Webflow / Framer
 ```
@@ -114,7 +114,7 @@ Cross-team Communication
 <tr>
 <td width="50%" valign="top">
 
-**[CLAIMS AI-ASSISTED JOURNEY](https://shubhamdesign.in)**
+**[CLAIMS AI-ASSISTED JOURNEY](https://shubhamdesign.in/#/claims)**
 Care Health Insurance · End-to-end redesign
 ```
 Completion:  +35% claim completion rate
@@ -128,7 +128,7 @@ Scope:       UX audit → behaviour analytics →
 </td>
 <td width="50%" valign="top">
 
-**[LMS - AI AGENT SALES TOOL](https://shubhamdesign.in)**
+**[LMS - AI AGENT SALES TOOL](https://shubhamdesign.in/#/lms)**
 Care Health Insurance · 0→1 redesign for 800+ agents
 ```
 Conversion:  +34% lead-to-sale
@@ -167,25 +167,25 @@ Public demos exploring AI × design workflows.
 <tr>
 <td width="50%" valign="top">
 
-**[CLAIMS INTELLIGENCE DASHBOARD](https://shubhamdesign.in)**
-AI-powered claims pattern analysis
+**[CLAIMS INTELLIGENCE DASHBOARD](https://claims-ai-journey.vercel.app)**
+AI-powered claims document scanner
 ```
 Stack:  Next.js · Claude API · Tailwind
-Flow:   Claims data → AI pattern detection →
-         visual dashboard → actionable insights
-Status: In progress
+Flow:   Upload document → AI extraction →
+         auto-filled form → confidence scores
+Status: Live ↗
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**[LMS - AI AGENT ASSIST](https://shubhamdesign.in)**
+**LMS - AI AGENT ASSIST**
 AI-powered sales agent workflow
 ```
 Stack:  Next.js · AI Agent · Tailwind
 Flow:   Lead intake → AI scoring →
          agent assist → real-time dashboard
-Status: In progress
+Status: Live Demo coming soon
 ```
 
 </td>
@@ -198,8 +198,6 @@ Building in public
 ```
 → AI design review tool for design systems
 → Component generator from design briefs
-→ Automated UX audit using AI + analytics
-→ Design token automation
 ```
 
 </td>
@@ -247,17 +245,6 @@ Education:       BFA - Design & Applied Arts
 </td>
 </tr>
 </table>
-
-<br>
-
-## ▓▓▓ STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamdesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdesigns&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="49%" />
-
-</div>
 
 <br>
 
