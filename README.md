@@ -7,7 +7,7 @@
 
 <br>
 
-<!-- INTRO CARD — edge to edge, matching banner width -->
+<!-- INTRO CARD -->
 <table width="100%">
 <tr>
 <td width="10%" align="center" valign="middle">
@@ -114,7 +114,7 @@ Cross-team Communication
 <tr>
 <td width="50%" valign="top">
 
-**[CLAIMS AI-ASSISTED JOURNEY](https://shubhamdesign.in/#/claims)**
+**[How I helped Care Health Insurance reduce claim abandonment by 35% and cut support costs by 22%](https://shubhamdesign.in/#/claims)**
 Care Health Insurance · End-to-end redesign
 ```
 Completion:  +35% claim completion rate
@@ -128,8 +128,8 @@ Scope:       UX audit → behaviour analytics →
 </td>
 <td width="50%" valign="top">
 
-**[LMS - AI AGENT SALES TOOL](https://shubhamdesign.in/#/lms)**
-Care Health Insurance · 0→1 redesign for 800+ agents
+**[How I built the AI sales tool that generates ₹18Cr additional revenue every month for 800+ agents](https://shubhamdesign.in/#/lms)**
+Care Health Insurance · 0→1 redesign
 ```
 Conversion:  +34% lead-to-sale
 Handle time: −52% average call duration
@@ -142,10 +142,24 @@ Scope:       Agent shadowing → workflow mapping →
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+**[How I helped Rajat Suri (Co-founder, Lyft) turn dead group chats into outcome-driven communities](https://shubhamdesign.in/#/tribe)**
+iOS Mobile · Shipped 2024
+```
+Decision resolution:  3× faster
+30-day churn:         −41%
+Engagement:           +68% faster
+Beta:                 340 groups · 12 weeks · 3-person team
+Scope:                Information architecture · thread interaction
+                       design · community mechanics · iOS mobile
+```
+
+</td>
+<td width="50%" valign="top">
 
 **[PORTFOLIO - HAND-CODED](https://shubhamdesign.in)**
-Personal · No Webflow, no Framer, no template
+Personal · Hand-coded from scratch · 26MB → 3.66MB optimization
 ```
 Stack:  Vanilla HTML · CSS · JavaScript
         Custom page-pane architecture · Boot loader · Sound design
