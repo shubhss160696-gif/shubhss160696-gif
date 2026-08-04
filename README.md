@@ -170,7 +170,7 @@ Status: Live
 </td>
 <td width="50%" valign="top">
 
-**LMS — AI AGENT ASSIST**
+**LMS - AI AGENT ASSIST**
 
 ```
 Stack:  Next.js · Claude API · Tailwind
